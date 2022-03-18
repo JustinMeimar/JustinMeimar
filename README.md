@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 
 -->
-** GOING TO GIVE ME GITHUB A GLOW UP THIS SUMMER ** 
 
 - 🔭 I’m currently working on ... School
 - 🌱 I’m currently learning ... RUST >:D

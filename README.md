@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 
 Courses Taken:
 
+
 CMPUT 174/5
+
 CMPUT 201 272 204 229
 
 Planning to Take:
 
-3:1 --> | 415 379 328 |     | CMPUT | \n
-3:2 --> | 340 301 291 |  *  | CMPUT | \n
-4:1 --> | 429 411 404 |     | CMPUT | \n
-4:2 --> | 366 333 391 |     | CMPUT | \n
+3:1 -->  415 379 328      
+
+3:2 -->  340 301 291   
+
+4:1 -->  429 411 404   
+
+4:2 -->  366 333 391      

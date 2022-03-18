@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+Courses Taken:
+
+CMPUT 174/5
+CMPUT 201 272 204 229
+
+Planning to Take:
+
+3:1 --> | 415 379 328 |     | CMPUT |
+3:2 --> | 340 301 291 |  *  | CMPUT |
+4:1 --> | 429 411 404 |     | CMPUT | 
+4:2 --> | 366 333 391 |     | CMPUT |

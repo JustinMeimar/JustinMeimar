@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 Courses Taken:
 
-
-CMPUT 174/5
-
 CMPUT 201 272 204 229
 
 Planning to Take:
